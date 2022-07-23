@@ -1,13 +1,15 @@
+---
+---
 # pffy
 
 Hi.
 
-Cotton Markdown Tables for Google Sheets
-  + https://m.pffy.dev/cotton
+### Projects
 
-Chinese Seal Chop Generator
-  + https://chinese.sealchop.com
+  * <a href="https://m.pffy.dev/cotton">Cotton Markdown Tables for Google Sheets</a>
+  * <a href="https://chinese.sealchop.com">Chinese Seal Chop Generator</a>
+  * <a href="https://about.sealchop.com">Chinese Seal Chop Image API</a>
 
-Chinese Seal Chop Image API
-  + https://about.sealchop.com
+{% include footer.md %}
+
 
