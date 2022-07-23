@@ -4,7 +4,7 @@ The **Cotton Markdown Tables** add-on for Google Sheets is a new add-on that imp
 
 ### Export options
 
-You have six methods of exporing data in Google Sheets to Markdown tables:
+You have six options for exporting data from Google Sheets to Markdown tables:
 
   1. **Export active range:** The most basic selection in a spreadsheet.
   2. **Export all active ranges:** This allows you to multi-select seperate ranges and export all the converted tables into a single Markdown table document.
