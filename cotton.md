@@ -23,5 +23,4 @@ You can:
   * View the Markdown file in Google Drive
   * Download the Markdown file to your desktop
 
-
-
+{% include footer.md %}
