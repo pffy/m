@@ -1,10 +1,18 @@
-# Export Markdown tables from Google Sheets
+# Cotton Markdown Tables: Export Markdown tables from Google Sheets
 
-The **Cotton Markdown Tables** add-on for Google Sheets is a new add-on that improves data sharing workflows.
+The **Cotton Markdown Tables** add-on for Google Sheets improves data sharing workflows. Build rich, informative spreadsheets. Then, export them to Markdown table syntax with a few clicks.
 
-## INSTALL OPTIONS
+  + [INSTALL](#install)
+  + [PERMISSIONS](#permissions)
+  + [FEATURES](#features)
+  + [PRIVACY POLICY](#privacy-policy)
+  + [TERMS OF SERVICE](#terms-of-service) 
+  + [COMPLIANCE](#compliance) 
+  + [DISCLAIMERS](#disclaimers)  
 
-Coming soon.
+## INSTALL
+
+Details soon.
 
 ## PERMSSIONS
 
@@ -26,7 +34,7 @@ In order to provide useful features, this add-on requires permissions from you. 
 
 Permissions [can be removed][revoke] at any time from your Google Account.
 
-## Features
+## FEATURES
 
 ### Export options
 
