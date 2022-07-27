@@ -20,7 +20,7 @@ In order to provide useful features, this add-on requires permissions from you. 
  
   + **Script UI:**
     + *"Display and run third-party web content in prompts and sidebars inside Google applications"*
-    + This permssion allows ...
+    + This permssion allows the add-on to provide user interaction for better usability. HTML, CSS, JavaScript and frameworks (e.g., jQuery) are implemented in the sidebar to help the add-on copy text to your clipboard, view saved files in your Google Drive, or download saved files to your desktop. No user data sent to pffy-cloud.
 
 ### Remove permissions
 
@@ -55,6 +55,13 @@ You can:
 <img title="Cotton Markdown tables add-on prompt" src="png/cotton-prompt.png" />
 
 
+## Privacy Policy
+
+  + [https://a.pffy.dev/about/privacy][privacy]
+
+## Terms of Service
+
+  + [https://a.pffy.dev/about/terms][terms]
 
 ## Compliance
 
@@ -62,9 +69,10 @@ The Cotton Markdown Tables spreadsheet editor add-on is free. Printing this web 
 
 ## Disclaimers
 
-Google Sheets and related software features are a trademarks of Google, an Alphabet company.
-
+Google Sheets, Google Drive, and other Google software or features are trademarks of Google, an Alphabet company. jQuery belongs to the OpenJS Foundation and jQuery contributors.
 
 [revoke]: https://myaccount.google.com/permissions
+[terms]: https://a.pffy.dev/about/terms
+[privacy]: https://a.pffy.dev/about/privacy
 
 {% include footer.md %}
