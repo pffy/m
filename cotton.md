@@ -14,7 +14,7 @@ The **Cotton Markdown Tables** add-on for Google Sheets improves data sharing wo
 
 Details soon.
 
-## PERMSSIONS
+## PERMISSIONS
 
 In order to provide useful features, this add-on requires permissions from you. The following describes the purpose of permissions for this add-on:
 
