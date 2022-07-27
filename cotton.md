@@ -13,6 +13,8 @@ You have six options for exporting data from Google Sheets to Markdown tables:
   5. **Export selected named ranges:** Choose which predefined named ranges you want and save all the generated Markdown tables in a single Markdown document.
   6. **Export all named ranges:** Combine all the named ranges in a spreadsheet into a single Markdown document.
 
+
+
 ### Deliverables 
 
 After you export Markdown tables with Cotton, you have three deliverables. 
@@ -22,5 +24,16 @@ You can:
   * Copy to clipboard
   * View the Markdown file in Google Drive
   * Download the Markdown file to your desktop
+
+## INsTALL
+
+Coming soon.
+
+##
+
+## Disclaimers
+
+Google Sheets and related software features are a trademarks of Google, an Alphabet company.
+
 
 {% include footer.md %}
