@@ -6,7 +6,7 @@ Welcome to the Pffy Authors project site.
 
 We build software and services for scientists, creatives and educators. We mostly focus on DevOps and productivity for data sharing workflows. Additionally, our work includes computer-assistend language learning (CALL) and data processing.
 
-***All software written by the Pffy Authors is 100% free.***
+***All software and services written by the Pffy Authors are 100% free.***
 
 In August 2022, we will focus on using the Chromebook as a teaching resource in both education and corporate training. The new features available in Chrome OS have provided new opportunities for rethinking workflows in academic and workplace settings.
 
