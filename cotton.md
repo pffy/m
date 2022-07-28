@@ -65,6 +65,8 @@ You can:
 
 ## Privacy Policy
 
+This add-on complies with the [Google API Services User Data Policy][gapi]. Additionally, we are committed to delivering wonderful user experiences without collecting any personally-identifying information about you. These efforts are described with greater detail in our privacy policy:
+
   + [https://a.pffy.dev/about/privacy][privacy]
 
 ## Terms of Service
@@ -82,5 +84,6 @@ Google Sheets, Google Drive, and other Google software or features are trademark
 [revoke]: https://myaccount.google.com/permissions
 [terms]: https://a.pffy.dev/about/terms
 [privacy]: https://a.pffy.dev/about/privacy
+[gapi]: https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes
 
 {% include footer.md %}
