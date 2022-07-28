@@ -65,7 +65,7 @@ You can:
 
 ## Privacy Policy
 
-This add-on complies with the [Google API Services User Data Policy][gapi]. Additionally, we are committed to delivering wonderful user experiences without collecting any personally-identifying information about you. These efforts are described with greater detail in our privacy policy:
+This add-on complies with the [Google API Services User Data Policy][gapi]. Additionally, we are committed to exceeding these requirements while a delivering wonderful user experiences without collecting any personally-identifying information about you. These efforts are described with greater detail in our privacy policy:
 
   + [https://a.pffy.dev/about/privacy][privacy]
 
