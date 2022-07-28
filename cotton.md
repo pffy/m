@@ -65,7 +65,7 @@ You can:
 
 ## Privacy Policy
 
-This add-on complies with the [Google API Services User Data Policy][gapi]. Additionally, we are committed to exceeding these requirements while a delivering wonderful user experiences without collecting any personally-identifying information about you. These efforts are described with greater detail in our privacy policy:
+This add-on complies with the [Google API Services User Data Policy][gapi]. Additionally, we are committed to exceeding these requirements while delivering wonderful user experiences, without collecting any personally-identifying information about you. These efforts are described with greater detail in our privacy policy:
 
   + [https://a.pffy.dev/about/privacy][privacy]
 
@@ -75,11 +75,17 @@ This add-on complies with the [Google API Services User Data Policy][gapi]. Addi
 
 ## Compliance
 
-The Cotton Markdown Tables spreadsheet editor add-on is free. Printing this web page (either as paper for PDF) and retaining a copy for your records is sufficient documentation for your organization's site license or domain license.
+This section is for compliance departments within companies, agencies or organizations that must provide documentation of licensing for internal or external audit processes.
+
+**The Cotton Markdown Tables spreadsheet editor add-on is free software.** Printing this web page (either as paper for PDF) and retaining a copy for your records is sufficient documentation for your organization's site license or domain license.
 
 ## Disclaimers
 
 Google Sheets, Google Drive, and other Google software or features are trademarks of Google, an Alphabet company. jQuery belongs to the OpenJS Foundation and jQuery contributors.
+
+## Open Source
+
+Details soon.
 
 [revoke]: https://myaccount.google.com/permissions
 [terms]: https://a.pffy.dev/about/terms
