@@ -1,5 +1,7 @@
 # Cotton Markdown Tables: Export Markdown tables from Google Sheets
 
+![Cotton Markdown Tables icon is colon-dash-dash-colon][icon120]
+
 The **Cotton Markdown Tables** add-on for Google Sheets improves data sharing workflows. Build rich, informative spreadsheets. Then, export them to Markdown table syntax with a few clicks.
 
   + [INSTALL](#install)
@@ -87,6 +89,7 @@ Google Sheets, Google Drive, and other Google software or features are trademark
 
 Details soon.
 
+[icon120]: /png/icon-simple-120.png
 [revoke]: https://myaccount.google.com/permissions
 [terms]: https://a.pffy.dev/about/terms
 [privacy]: https://a.pffy.dev/about/privacy
