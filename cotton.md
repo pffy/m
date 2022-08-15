@@ -64,6 +64,9 @@ You can:
 
 <img title="Cotton Markdown tables add-on prompt" src="png/cotton-prompt.png" />
 
+## YouTube Channel
+
+  + [Cotton Markdown Tables on YouTube][yt_cotton]
 
 ## Privacy Policy
 
@@ -89,6 +92,8 @@ Google Sheets, Google Drive, and other Google software or features are trademark
 
 Details soon.
 
+
+[yt_cotton]: https://www.youtube.com/channel/UCl7X-xNklgG6Eg5X91TNn2Q
 [icon120]: /png/icon-simple-120.png
 [revoke]: https://myaccount.google.com/permissions
 [terms]: https://a.pffy.dev/about/terms
