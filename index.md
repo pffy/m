@@ -4,7 +4,7 @@
 
 Welcome to the Pffy Authors project site.
 
-We build software and services for scientists, creatives and educators. We mostly focus on DevOps and productivity for data sharing workflows. Additionally, our work includes computer-assistend language learning (CALL) and data processing.
+We build software and services for scientists, creatives, and educators. We mostly focus on DevOps and productivity for data sharing workflows. Additionally, our work includes computer-assistend language learning (CALL) and data processing.
 
 ***All software and services written by the Pffy Authors are 100% free.***
 
