@@ -14,7 +14,14 @@ The **Cotton Markdown Tables** add-on for Google Sheets improves data sharing wo
 
 ## INSTALL
 
-Details soon.
+### Google Workspace Marketplace
+
+  + [Install the Cotton Markdown Tables][g_cotton] add-on from the Google Workspace Marketplace.
+  + [https://workspace.google.com/marketplace/app/cotton_markdown_tables/734474805574][g_cotton]
+
+### More Options
+
+  + There are [more installation options available][gh_mdt] for this add-on.
 
 ## PERMISSIONS
 
@@ -90,9 +97,14 @@ Google Sheets, Google Drive, and other Google software or features are trademark
 
 ## Open Source
 
-Details soon.
+Source code for this free software is available here on GitHub:
+
+  + https://github.com/pffy/markdown-table/
 
 
+
+[gh_mdt]: https://github.com/pffy/markdown-table/blob/main/README.md#install
+[g_cotton]: https://workspace.google.com/marketplace/app/cotton_markdown_tables/734474805574?utm_source=m-pffy-dev
 [yt_cotton]: https://www.youtube.com/channel/UCl7X-xNklgG6Eg5X91TNn2Q
 [icon120]: /png/icon-simple-120.png
 [revoke]: https://myaccount.google.com/permissions
