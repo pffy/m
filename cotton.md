@@ -11,6 +11,7 @@ The **Cotton Markdown Tables** add-on for Google Sheets improves data sharing wo
   + [TERMS OF SERVICE](#terms-of-service) 
   + [COMPLIANCE](#compliance) 
   + [DISCLAIMERS](#disclaimers)  
+  + [OPEN SOURCE](#open-source)
 
 ## INSTALL
 
