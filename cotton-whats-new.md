@@ -19,4 +19,4 @@
   * Export of multiple named ranges to a single document
   * Export of multiple sheets to a Markdown table group file
 
-{% include footer.html %}
+{% include footer.md %}
