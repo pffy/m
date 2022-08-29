@@ -102,10 +102,10 @@ Google Sheets, Google Drive, and other Google software or features are trademark
 
 Source code for this free software is available here on GitHub:
 
-  + https://github.com/pffy/markdown-table/
+  + [https://github.com/pffy/markdown-table/][foss]
 
 
-
+[foss]: https://github.com/pffy/markdown-table/
 [gh_mdt]: https://github.com/pffy/markdown-table/blob/main/README.md#install
 [g_cotton]: https://workspace.google.com/marketplace/app/cotton_markdown_tables/734474805574?utm_source=m-pffy-dev
 [yt_cotton]: https://www.youtube.com/channel/UCl7X-xNklgG6Eg5X91TNn2Q
