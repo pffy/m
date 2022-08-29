@@ -2,7 +2,7 @@
 ---
 # What's New in Version ?
 
-[Cotton Markdown Tables](https://m.pffy.dev/cotton) is constantly improving.
+[Cotton Markdown Tables](https://m.pffy.dev/cotton) is constantly improving. Here are some of the recently added features:
 
   * TBD
   * TBD
