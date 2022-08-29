@@ -46,6 +46,8 @@ Permissions [can be removed][revoke] at any time from your Google Account.
 
 ## FEATURES
 
+> **NOTE:** [What's new](https://m.pffy.dev/cotton-whats-new) in this version?
+
 ### Export options
 
 You have six options for exporting data from Google Sheets to Markdown tables:
