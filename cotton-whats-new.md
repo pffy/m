@@ -1,12 +1,13 @@
 ---
 ---
-# What's New in Version ?
+# What's New in Version 8
 
 [Cotton Markdown Tables](https://m.pffy.dev/cotton) is constantly improving. Here are some of the recently added features:
 
-  * TBD
-  * TBD
-  * TBD
+  * Added support for checkboxes.
+  * Added support for line breaks (multi-line text).
+  * Added [compatibility chart](https://github.com/pffy/markdown-table#compatibility) for Markdown editors.
+  * Added support for Chromebooks and Apple iPads.
 
 ## Added in previous versions
   * Copy to clipboard
