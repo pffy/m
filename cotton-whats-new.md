@@ -45,12 +45,12 @@ Video information is also added to footnotes below the Markdown table.
   + Improved empty cell handling for large tables
   + Added support for exporting notes as footnotes
   + Improved GitHub rendering of special characters
-  * Added support for line breaks (multi-line text)
-  * Added support for converting checkboxes to text checkboxes
-  * Updated list of supported monospace Google fonts
-  * Added [compatibility chart](https://github.com/pffy/markdown-table#compatibility) for Markdown editors.
-  * Released open source copy of this add-on
-  * UI fixes
+  + Added support for line breaks (multi-line text)
+  + Added support for converting checkboxes to text checkboxes
+  + Updated list of supported monospace Google fonts
+  + Added [compatibility chart](https://github.com/pffy/markdown-table#compatibility) for Markdown editors.
+  + Released open source copy of this add-on
+  + Various UI improvements
 
 ### ADDED IN PREVIOUS VERSIONS
 
