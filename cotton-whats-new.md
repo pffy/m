@@ -11,7 +11,7 @@
 ### HOW IT WORKS
 
 In cell A1, enter the canonical YouTube watch URL, surrounded by double brackets:
-```markdown
+```
 <<https://www.youtube.com/watch?v=w3jLJU7DT5E>>
 ```
 
@@ -25,7 +25,7 @@ This note annotates the YouTube video thumbnail.
 
 Next, run any Cotton Markdown tables conversion. The YouTube generator syntax converts to the following Markdown syntax:
 
-```markdown
+```
 [![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
 :--:
 ```
