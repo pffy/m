@@ -27,15 +27,15 @@ Next, run any Cotton Markdown tables conversion. The YouTube generator syntax co
 
 ```
 [![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
-:--:
 ```
 
 Here is what it looks like:
 
 [![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
-:--:
 
 Video information is also added to footnotes below the Markdown table.
+
+- - - -
 
 ### RECENTLY ADDED
 
