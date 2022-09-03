@@ -11,7 +11,7 @@
 ### HOW IT WORKS
 
 In cell A1, enter the canonical YouTube watch URL, surrounded by double brackets:
-```visualbasic
+```markdown
 <<https://www.youtube.com/watch?v=w3jLJU7DT5E>>
 ```
 
