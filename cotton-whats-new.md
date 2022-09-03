@@ -15,7 +15,15 @@ In cell A1, enter the canonical YouTube watch URL, surrounded by double brackets
 <<https://www.youtube.com/watch?v=w3jLJU7DT5E>>
 ```
 
-Add a note to cell A1, which annotates the video thumbnail. Run any Cotton Markdown tables conversion. The YouTube generator convers to the following linked thumbnail image:
+Now, insert a new note to cell A1:
+
+```
+what is github?
+```
+
+This note annotates the YouTube video thumbnail. 
+
+Next, run any Cotton Markdown tables conversion. The YouTube generator syntax converts to the following Markdown syntax:
 ```markdown
 [![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
 :--:
@@ -28,13 +36,11 @@ Here is what it looks like:
 Video information is also added to footnotes below the Markdown table.
 
 ### RECENTLY ADDED
+
   + Added support for =HYPERLINK formula
   + Added support for spreadsheet hypertext formatting
   + Added support for underline font style
   + Improved empty cell handling for large tables
-
-### RECENTLY ADDED
-
   + Added support for exporting notes as footnotes
   + Improved GitHub rendering of special characters
   * Added support for line breaks (multi-line text)
