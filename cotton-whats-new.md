@@ -2,11 +2,43 @@
 ---
 
 
-# WHAT'S NEW IN VERSION 11
+# WHAT'S NEW IN VERSION 12
 
 [Cotton Markdown Tables](https://m.pffy.dev/cotton) is constantly improving. Here are some of the recently added features:
 
-  + Added a YouTube thumbnail generator
++ Markdown table syntax is now more user-editable
+
+### DETAILS
+
+Vertical pipes now start and end every row.
+
+Using previous syntax:
+```
+1 | 2
+:--: | :--:
+3 | 4
+```
+
+1 | 2
+:--: | :--:
+3 | 4
+
+Using more user-editable syntax:
+
+```
+| 1 | 2 |
+| :--: | :--: |
+| 3 | 4 |
+```
+
+| 1 | 2 |
+| :--: | :--: |
+| 3 | 4 |
+
+
+## RECENTLY ADDED
+
++ Added a YouTube(TM) thumbnail generator
 
 ### HOW IT WORKS
 
