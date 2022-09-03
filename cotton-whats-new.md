@@ -2,10 +2,32 @@
 ---
 
 
-# WHAT'S NEW IN VERSION 10
+# WHAT'S NEW IN VERSION 11
 
 [Cotton Markdown Tables](https://m.pffy.dev/cotton) is constantly improving. Here are some of the recently added features:
 
+  + Added a YouTube thumbnail generator
+
+### HOW IT WORKS
+
+In cell A1, enter the canonical YouTube watch URL, surrounded by double brackets:
+```visualbasic
+<<https://www.youtube.com/watch?v=w3jLJU7DT5E>>
+```
+
+Add a note to cell A1, which annotates the video thumbnail. Run any Cotton Markdown tables conversion. The YouTube generator convers to the following linked thumbnail image:
+```markdown
+[![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
+:--:
+```
+
+Here is what it looks like:
+[![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
+:--:
+
+Video information is also added to footnotes below the Markdown table.
+
+### RECENTLY ADDED
   + Added support for =HYPERLINK formula
   + Added support for spreadsheet hypertext formatting
   + Added support for underline font style
