@@ -24,12 +24,14 @@ what is github?
 This note annotates the YouTube video thumbnail. 
 
 Next, run any Cotton Markdown tables conversion. The YouTube generator syntax converts to the following Markdown syntax:
+
 ```markdown
 [![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
 :--:
 ```
 
 Here is what it looks like:
+
 [![what is github?](https://img.youtube.com/vi/w3jLJU7DT5E/mqdefault.jpg "what is github?")](https://www.youtube.com/watch?=w3jLJU7DT5E)
 :--:
 
@@ -37,7 +39,7 @@ Video information is also added to footnotes below the Markdown table.
 
 ### RECENTLY ADDED
 
-  + Added support for =HYPERLINK formula
+  + Added support for `=HYPERLINK` formula
   + Added support for spreadsheet hypertext formatting
   + Added support for underline font style
   + Improved empty cell handling for large tables
