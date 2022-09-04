@@ -2,13 +2,17 @@
 ---
 
 
-# WHAT'S NEW IN VERSION 12
+# WHAT'S NEW IN VERSION 13
 
 [Cotton Markdown Tables](https://m.pffy.dev/cotton) is constantly improving. Here are some of the recently added features:
 
-+ Markdown table syntax is now more user-editable
+  + Added support for `=IMAGE` formula
+    + `=IMAGE(url)`
+    + `=IMAGE(A1)`
+  
+### RECENTLY ADDED
 
-### DETAILS
++ Markdown table syntax is now more user-editable
 
 Vertical pipes now start and end every row.
 
